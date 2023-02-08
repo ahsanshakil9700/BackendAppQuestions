@@ -1,0 +1,19 @@
+[
+    {
+        "conclusion": "loris",
+        "context": [
+            "tail",
+            "no tail",
+            "short tail (< 2in)",
+            "nocturnal"
+        ]
+    },
+    {
+        "conclusion": "lemur",
+        "context": [
+            "tail",
+            "long tail (> 2in)",
+            "diurnal"
+        ]
+    }
+]
